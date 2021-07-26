@@ -90,7 +90,7 @@ footer {
   background-color: rgb(255, 255, 255);
 }
 
-.github {
+.githubButton {
   border: 10px solid #404B69;
   font-size: 1rem;
   font-family: sans-serif;
@@ -106,3 +106,4 @@ footer {
   margin: 10px;
   background-color: rgb(255, 255, 255);
 }
+
